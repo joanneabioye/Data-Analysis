@@ -21,3 +21,18 @@ Lastly, to gain further insight into the productivity of each department, I calc
 ![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/f1f84f8a-ec1f-4db3-9f7f-54d46b2d9498)
 
 Overall, the data analysis revealed that some agents were achieving below their targets, highlighted the best-performing department, and provided insights into the total bonus payout. I found this project to be very fascinating as it allowed me to uncover intriguing insights that could potentially aid in improving the business's sales performance.
+
+
+### Portfolio Index
+
+1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
+
+2. [Sourcing Data](https://github.com/joanneabioye/Sourcing-Data)
+
+3. Data Analysis
+
+4. [Data Formatting and Visualisation](https://github.com/joanneabioye/Data-Formatting-and-Visualisation)
+
+5. [Dashboarding in Power BI](https://github.com/joanneabioye/Dashboarding-in-Power-BI/blob/main/README.md)
+
+6. [Storytelling](https://github.com/joanneabioye/Storytelling/blob/main/README.md)
