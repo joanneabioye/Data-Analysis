@@ -23,7 +23,7 @@ Lastly, to gain further insight into the productivity of each department, I calc
 Overall, the data analysis revealed that some agents were achieving below their targets, highlighted the best-performing department, and provided insights into the total bonus payout. I found this project to be very fascinating as it allowed me to uncover intriguing insights that could potentially aid in improving the business's sales performance.
 
 
-### Portfolio Index
+## Portfolio Index
 
 1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
 
