@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data Analysis
 
 For this project, my objective was to complete a series of tasks focused on the sales targets of a business. I had a dataset worksheet containing agent names, sales targets, actual sales, and department information. My goal was to utilize this data to derive insights into productivity and profit levels. To achieve this, I employed formulas to perform mathematical operations in Excel.
 
