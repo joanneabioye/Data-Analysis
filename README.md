@@ -6,19 +6,19 @@ For this project, my objective was to complete a series of tasks focused on the 
 
 To commence, I added a column titled "Target Achievement Level" and utilized the following formula to calculate the fraction of sales achieved against the sales target and actual sales. 
 
-![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/27ef7ce9-6f96-4ef2-b1b7-51ecb3a299d4)
+![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/8d0ce349-9bb7-4b91-8e9a-85ee414c4e6e)
 
 Using the MAX and MIN formulas, I identified the highest and lowest Target Achievement Levels respectively. Additionally, I utilized INDEX and MATCH functions to pinpoint the names of the agents associated with the highest and lowest Target Achievement Levels.
 
-![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/2bac28a8-b4a4-488a-bc4b-567f5fe41d69)
+![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/10d991c4-cd7f-47ef-a825-69d5d4f61552)
 
 I then calculated the average performance of the entire sales team based on the Target Achievement Level values. It became apparent that the sales targets varied for each agent; some had higher targets compared to others, which could be attributed to differences in experience within the sales field.
 
 Lastly, to gain further insight into the productivity of each department, I calculated the total sales per department, average sales per agent within each department, and the Target Achievement Level per department. The final requirement involved calculating the total Bonus Pay per department by determining the percentage rate of bonus relative to the achieved sales.
 
-![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/2b1f5b9f-af75-407d-b859-94178b7eb83e)
+![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/1db4548e-b328-4525-aa4f-0c9963280862)
 
-![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/f1f84f8a-ec1f-4db3-9f7f-54d46b2d9498)
+![image](https://github.com/joanneabioye/Data-Analysis/assets/153685683/147fca34-0c2a-4dd3-b183-e68816d22a5e)
 
 Overall, the data analysis revealed that some agents were achieving below their targets, highlighted the best-performing department, and provided insights into the total bonus payout. I found this project to be very fascinating as it allowed me to uncover intriguing insights that could potentially aid in improving the business's sales performance.
 
